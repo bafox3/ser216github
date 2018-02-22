@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World");
 		
-		System.out.println("Hello this is cjmoraws");
+		System.out.println("Hello this is bafox3");
 
 		if ("Hello World".equals("Hello World"))
 			System.out.println("Hello World");
